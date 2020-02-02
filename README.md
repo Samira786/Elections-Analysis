@@ -1,2 +1,2 @@
 # Elections-Analysis
-Using Pythin
+Using Python
